@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-style: italic;
+  font-style: bold; /* changed from italic to bold */
   font-size: 20px;
   color: #000;
   line-height: 22px;
